@@ -17,4 +17,8 @@ public class Company extends Employee {
 	public static void main(String[] args) {
 		Company c = new Company();
 	}
+	private void mm() {
+		// TODO Auto-generated method stub
+
+	}
 }
